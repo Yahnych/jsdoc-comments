@@ -1,5 +1,7 @@
 # JSDoc Comments
 
+[![Build Status](https://travis-ci.org/pixijs/jsdoc-comments.svg?branch=master)](https://travis-ci.org/pixijs/jsdoc-comments)
+
 This commandline utility exports all JSDoc-style comments from files into another folder without any code. This is useful if you want to use JSDoc but file formats do not support JavaScript parsing, for instance, TypeScript files.
 
 This is a port of [**gulp-comments**](https://github.com/jiborobot/gulp-comments) but for use without Gulp.
